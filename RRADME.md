@@ -9,7 +9,7 @@ This repository contains an Ansible playbook designed to automate the installati
    
 2. **Access to a production server**: You must have SSH access to the production server where Docker will be installed.
 
-3. **Public SSH key**: Your public SSH key should be added to the `authorized_keys` file on the production server.
+3. **Public SSH key**: Your public  SSH key should be added to the `authorized_keys` file on the production server.
 
 ## Steps to Set Up and Run the Playbook
 
